@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "innofully-mindful-dev",
+    "production": "innofully-mindful-prod"
+  },
+  "targets": {}
+}

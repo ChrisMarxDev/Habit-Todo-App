@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "849001467696",
+    "project_id": "innofully-mindful-dev",
+    "storage_bucket": "innofully-mindful-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849001467696:android:430a6f314e19e6b92e02f5",
+        "android_client_info": {
+          "package_name": "com.innofully.christophermarx.mindful.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849001467696-stn6ejeia3q0lt1f2dmtcoumteqq9371.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKEQL5syqReyf73TxrpQjg42IOsCcpINE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849001467696-stn6ejeia3q0lt1f2dmtcoumteqq9371.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "849001467696-q3mrsamrgf6337hv8a1jlajq0q9osj04.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.innofully.christophermarx.mindful.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

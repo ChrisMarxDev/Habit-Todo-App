@@ -1,0 +1,12 @@
+name: my_flutter_package
+#on: [ pull_request, push ]
+on:
+  push:
+    branches-ignore:
+      - '**'
+
+jobs:
+  build:
+    uses: VeryGoodOpenSource/very_good_workflows/.github/workflows/flutter_package.yml@v1
+    with:
+      coverage_excludes: "*.dart"
